@@ -9,9 +9,7 @@ Welcome to my portfolio website! This website serves as a showcase of my skills,
 - **Customizable Color Themes:** Choose from 5 distinct color themes or switch between light and dark modes to personalize your viewing experience.
 - **Comprehensive Content:** Explore my education, projects, services, and other relevant information, all conveniently organized and accessible on the website.
 
-## Preview:
 
-![Portfolio Website Preview](preview.png)
 
 ## Getting Started:
 
@@ -24,7 +22,4 @@ To explore my portfolio website, simply visit the following link: [Saurav Tonde 
 - JavaScript
 - Bootstrap
 
-## Contributions:
-
-Contributions to the website, whether in the form of feedback, suggestions, or bug fixes, are welcome! Feel free to fork the repository, make your changes, and submit a pull request.
 
